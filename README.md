@@ -26,5 +26,5 @@ Extra fields may be added as the game evolves: at this point we only play the ga
 
 Details on the software implementation:
 
-As of beginning of November we checked and managed to light up an LED, using raspberry PI. The code should be available soon enough into a github repository.
+As of beginning of November we checked and managed to light up an LED, using raspberry PI. The code should be available soon enough in this github repository.
 
