@@ -3,7 +3,7 @@ Repo for push the button game
 
 Intro:
 
-This is an overview of a PI (raspberry PI) project that we intend building inside LPEM. 
+This is an overview of a PI (raspberry PI) project that we intend building inside our highscool. 
 Our deadline is set for the open days (March 2020).
 
 
