@@ -22,6 +22,8 @@ Database:
 
 Our database should contain the following information: the user (some string up to 10 characters) that played the game, the number of buttons that he pressed and the date and time when he played. 
 Extra fields may be added as the game evolves: at this point we only play the game for a 1 minute; later, we could play the game in a different mode – for two minutes for example. 
+[Database Updates]
+- The database dbms is SQLite to keep it neater and simpler than having to install Postgres or such. https://www.sqlite.org/download.html
 
 
 Details on the software implementation:
