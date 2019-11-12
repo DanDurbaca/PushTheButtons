@@ -9,7 +9,7 @@ Our deadline is set for the open days (March 2020).
 
 Description:
 
-We would like to build a large push-buttons panel that are randomly turned on and then off by the user when he/she pushes the it.
+We would like to build a large push-buttons panel that are randomly turned on and then off by the user when he/she pushes them.
 The aim of the game is to measure user’s reaction time: how many buttons can one turn off within a minute!
 
 
