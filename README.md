@@ -30,6 +30,12 @@ Extra fields may be added as the game evolves: at this point we only play the ga
 - Added button logs table - query [TBA]
 
 
+19th of dec - THIS video: https://www.youtube.com/watch?v=T1jdjmbe1mM&feature=youtu.be&t=2m38s 
+does what we want to do with an Arduino Mega.
+
+However, they have the same problem as us (LED not beeing too bright) - given that they turn off the lights when testing ++++
+
+
 Details on the software implementation:
 
 As of beginning of November we checked and managed to light up an LED, using raspberry PI. The code should be available soon enough in this github repository.
