@@ -35,6 +35,8 @@ does what we want to do with an Arduino Mega.
 
 However, they have the same problem as us (LED not beeing too bright) - given that they turn off the lights when testing ++++
 
+21st of dec - we would like to replace the LED from the Adafruit BigDome pushbutton with this LED - https://www.reichelt.de/led-5-mm-bedrahtet-warmweiss-11000-mcd-30-led-5-8000-ww-p107236.html?&trstct=pos_2 - notice the 11K mcd !
+
 
 Details on the software implementation:
 
