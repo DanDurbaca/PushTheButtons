@@ -12,6 +12,12 @@ class buttonDBLib:
         self.cursor.execute(sql_query, data)
         self.cnx.commit()
 
+    def handleScore(self, username, total_score):
+        sql_query = "INSERT INTO scores(username, score) VALUES (%s, %s)"
+        data = (username, total_score) # dont remove comma
+        self.cursor.execute(sql_query, data)
+        self.cnx.commit()
+
     def endConnection(self):
         self.cursor.close()
         self.cnx.close()
