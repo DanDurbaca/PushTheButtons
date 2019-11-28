@@ -42,3 +42,8 @@ Details on the software implementation:
 
 As of beginning of November we checked and managed to light up an LED, using raspberry PI. The code should be available soon enough in this github repository.
 
+
+DB Library usage:
+
+Û
+
