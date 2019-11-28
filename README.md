@@ -48,7 +48,7 @@ DB Library usage:
 
     import dblib
 
-    buttonHandler = buttonDBLib() # do this once
+    buttonHandler = dblib.buttonDBLib() # do this once
     
     buttonHandler.handleButton(BUTTON_ID)
     buttonHandler.handleButton(BUTTON_ID2)
