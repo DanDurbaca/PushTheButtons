@@ -44,6 +44,12 @@ As of beginning of November we checked and managed to light up an LED, using ras
 
 
 DB Library usage:
+.. code:: py
 
-Û
+    import dblib
 
+    buttonHandler = buttonDBLib() # do this once
+    buttonHandler.handleButton(BUTTON_ID)
+    buttonHandler.handleButton(BUTTON_ID2)
+    buttonHandler.handleButton(BUTTON_ID3)
+    buttonHandler.endConnection() # run this when no longer needed
