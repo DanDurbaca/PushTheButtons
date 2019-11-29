@@ -24,10 +24,7 @@ Our database should contain the following information: the user (some string up 
 Extra fields may be added as the game evolves: at this point we only play the game for a 1 minute; later, we could play the game in a different mode – for two minutes for example. 
 
 [Database Updates]
-- The database dbms is SQLite to keep it neater and simpler than having to install Postgres or such. https://www.sqlite.org/download.html
-
-- Added scores table - query `CREATE TABLE scores (score_ID INTEGER PRIMARY KEY AUTOINCREMENT, username VARCHAR(500), total_score INT, timestamp DATETIME DEFAULT CURRENT_TIMESTAMP);`
-- Added button logs table - query [TBA]
+- SQL Table backup in buttons.sql
 
 
 19th of dec - THIS video: https://www.youtube.com/watch?v=T1jdjmbe1mM&feature=youtu.be&t=2m38s 
